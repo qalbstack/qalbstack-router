@@ -1,6 +1,3 @@
-.env
-*.env
-.env.*
-__pycache__/
-*.pyc
-*.log
+.gitignore
+qalbstack-sm-router.py
+lfm-router.py
